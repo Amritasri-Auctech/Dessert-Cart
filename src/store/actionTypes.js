@@ -1,0 +1,9 @@
+// ─── CART ACTIONS ─────────────────────────────────────────────────────────────
+export const ADD_TO_CART     = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const UPDATE_QTY      = "UPDATE_QTY";
+export const CLEAR_CART      = "CLEAR_CART";
+
+// ─── AUTH ACTIONS ─────────────────────────────────────────────────────────────
+export const SET_USER = "SET_USER";
+export const LOGOUT   = "LOGOUT";
